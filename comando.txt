@@ -1,2 +1,4 @@
-git initt
+git init
 git status
+git add .
+git commit -m "V2"
